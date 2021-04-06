@@ -1,0 +1,12 @@
+{
+    "name": "rahulsonar/phptable",
+    "description": "Datatable alternative for PHP",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rahul Sonar",
+            "email": "sonar.soni@gmail.com"
+        }
+    ],
+    "require": {}
+}
